@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules
+END
+h5plus.config.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/h5plus.config.js
+END
+h5plus.toolkit.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/h5plus.toolkit.js
+END
+ut.item.wrapper.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/ut.item.wrapper.js
+END
+ut.logUploader.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/ut.logUploader.js
+END
+h5plus.aggregate.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/h5plus.aggregate.js
+END
+ut.event.binder.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/ut.event.binder.js
+END
+h5plus.rmr.util.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/h5plus.rmr.util.js
+END
+h5plus.judge.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/h5plus.judge.js
+END
+h5plus.dya.script.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/h5plus.dya.script.js
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/readme.txt
+END
+h5plus.metainfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/h5plus.metainfo.js
+END
+h5plus.pandora.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/h5plus.pandora.js
+END
+h5plus.storage.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/h5plus.storage.js
+END
+wx.info.inject.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/fengnian/!svn/ver/19713/fengnian-template/trunk/h5plus-resource/js/modules/wx.info.inject.js
+END

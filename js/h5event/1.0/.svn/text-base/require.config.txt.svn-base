@@ -1,0 +1,1 @@
+require.config.js在各模块js压缩后可以不必一同压缩到最终文件里.

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/fengnian/!svn/ver/19712/fengnian-template/trunk/h5plus-resource/js/h5event/1.0
+END
+ut.run.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/fengnian/!svn/ver/19712/fengnian-template/trunk/h5plus-resource/js/h5event/1.0/ut.run.js
+END
+h5event.app.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fengnian/!svn/ver/19712/fengnian-template/trunk/h5plus-resource/js/h5event/1.0/h5event.app.js
+END
+h5event.app.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/fengnian/!svn/ver/19712/fengnian-template/trunk/h5plus-resource/js/h5event/1.0/h5event.app.min.js
+END
+h5event.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fengnian/!svn/ver/19712/fengnian-template/trunk/h5plus-resource/js/h5event/1.0/h5event.min.js
+END
+require.config.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/fengnian/!svn/ver/19712/fengnian-template/trunk/h5plus-resource/js/h5event/1.0/require.config.js
+END
+require.config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/fengnian/!svn/ver/19712/fengnian-template/trunk/h5plus-resource/js/h5event/1.0/require.config.txt
+END
